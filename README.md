@@ -60,4 +60,4 @@ rappresentantistudenti@chilesotti.it
 
 ## Licenza
 
-Questo progetto è destinato esclusivamente all'uso da parte degli studenti dell'ITT Chilesotti e ITET Ceccato per l'evento "Party di Fine Anno". 
+Questo progetto è destinato esclusivamente all'uso da parte degli studenti dell'ITT Chilesotti e ITET Ceccato per l'evento "Party di Fine Anno". # fine-party-anno
