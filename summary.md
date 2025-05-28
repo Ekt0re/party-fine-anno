@@ -106,6 +106,10 @@
   - Aggiunta la proprietà standard `background-clip` accanto a `-webkit-background-clip`
   - Migliorata la compatibilità cross-browser dei titoli con effetto gradiente
   - Corretti warning del linter CSS
+- Aggiunta favicon personalizzata:
+  - Creato file SVG con gradiente nei colori del sito (verde e blu)
+  - Implementata in tutte le pagine con supporto per browser moderni
+  - Design minimalista che riflette l'identità visiva dell'evento
 
 Il sito è ora pronto per essere utilizzato e promosso per l'evento! 
 
