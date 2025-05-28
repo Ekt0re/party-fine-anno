@@ -1,0 +1,16 @@
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# File temporanei
+*.log
+*.tmp
+
+# Directory specifiche dell'ambiente di sviluppo
+.vscode/
+.idea/
+node_modules/
+
+# Cache e file generati
+.cache/
+dist/ 
