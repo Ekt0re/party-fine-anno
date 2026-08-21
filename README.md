@@ -1,5 +1,3 @@
-<img width="1716" height="225" alt="image" src="https://github.com/user-attachments/assets/8560e98a-b183-49d7-8009-b1392631c93a" /># Party di Fine Anno - Sito Web Ufficiale
-
 Sito web ufficiale per il party di fine anno scolastico che si terrà presso Yourban Thiene il 13 Giugno 2025.
 
 ## Attenzione
