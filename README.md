@@ -2,7 +2,7 @@ Sito web ufficiale per il party di fine anno scolastico che si terrà presso You
 
 ## Attenzione
 
-Il presente sito non è più aggiornato. La sua presenza online è esclusivamente a scopo di "ricordo di quando nel 2025 gli allora rappresentanti di istituto crearono il primo ballo delle quinte dell'Istituto.
+Il presente sito non è più aggiornato. La sua presenza online è esclusivamente a scopo di "ricordo" di quando nel 2025 gli allora rappresentanti di istituto crearono il primo ballo delle quinte dell'Istituto.
 
 ## Contenuti
 
